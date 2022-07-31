@@ -1,2 +1,1 @@
-# TinDog-LandingPage
-Landing page built purely with HTML, CSS (and BootStrap)!
+TinDog Starting Files
